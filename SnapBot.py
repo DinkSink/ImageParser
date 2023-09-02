@@ -154,6 +154,6 @@ async def on_ready():
     #await channel.send("I can now save every image sent in a channel within the past week!")
 
 
-
+#Not currently a valid token
 client.run("OTk5MTkxOTAxMjg4Nzk2MjYw.GsMUpi.qObMTbiNvVfCFTFyejXWNjjz0pUJxYa5b_-AL0")
 #history(around=random_time)
